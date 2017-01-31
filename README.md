@@ -27,3 +27,6 @@ http://localhost:3000/newrelic -- development
 
 https://rpm.newrelic.com/ -- deployment
 
+
+
+https://try.newrelic.com/rs/newrelic/images/NR_Getting_Started_Guide.pdf  ---- Keep this tab open
