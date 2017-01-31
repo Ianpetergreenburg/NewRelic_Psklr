@@ -1,24 +1,11 @@
-# README
+# New Relic
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[https://github.com/newrelic/rpm]
 
-Things you may want to cover:
+- Sign Up via NewRelic.com
 
-* Ruby version
+newrelic install --license_key="YOUR_KEY" "My application"
 
-* System dependencies
+http://localhost:3000/newrelic
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Developer Mode is only initialized if the developer_mode setting in the newrelic.yml file is set to true. By default, it is turned off in all environments but development.
